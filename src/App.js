@@ -13,6 +13,8 @@ function App() {
       <main>
       <h1>Pikachu</h1>
       <h3>Front End Developer</h3>
+      <a href="#" class="fa fa-envelope"></a>
+      <a href="#" class="fa fa-linkedin"></a>
       <p>While Pikachu is known for being very reactionary, he has no idea how React works.
         Behind his cute smile lies powers that could destory this app. We'll blame the bugs on that...Excellent.
       </p>
@@ -20,8 +22,8 @@ function App() {
       <footer>
       <a href="#" class="fa fa-facebook"></a>
       <a href="#" class="fa fa-instagram"></a>
-      <a href="#" class="fa fa-linkedin"></a>
-
+      <a href="#" class="fa fa-github"></a>
+      <a href="#" class="fa fa-twitter"></a>
       </footer>
     </div>
   );
